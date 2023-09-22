@@ -1,0 +1,10 @@
+POST https://localhost:6000/register HTTP/1.1
+Content-Type: application/json
+
+{
+    "username": "amo5",
+    "password": "Lettuce123",
+    "firstname": "tshiamo",
+    "lastname": "komane",
+    "email": "st10122517@vcconnect.edu.za"
+}
